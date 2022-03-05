@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DevOps60" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DevOps61" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ansible" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/chanti" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/chanti/chanti" vcs="Git" />
@@ -10,6 +11,7 @@
     <mapping directory="$PROJECT_DIR$/docker" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/jenkins" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kubernetes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kubernetes1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kubernets" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/roboshop" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/shell-scripting" vcs="Git" />

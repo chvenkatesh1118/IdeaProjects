@@ -14,6 +14,7 @@
     <mapping directory="$PROJECT_DIR$/kubernetes1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kubernets" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/roboshop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sampleToDo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/shell-scripting" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/terraform" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/terraform-mutable" vcs="Git" />

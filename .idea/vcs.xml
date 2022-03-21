@@ -9,6 +9,7 @@
     <mapping directory="$PROJECT_DIR$/chanti/chanti" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/devops" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/install" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/jenkins" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kubernetes" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kubernetes1" vcs="Git" />

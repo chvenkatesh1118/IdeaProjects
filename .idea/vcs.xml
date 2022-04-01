@@ -7,6 +7,7 @@
     <mapping directory="$PROJECT_DIR$/ansible" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/chanti" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/chanti/chanti" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/commands" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/devops" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/docker" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/install" vcs="Git" />
@@ -15,6 +16,7 @@
     <mapping directory="$PROJECT_DIR$/kubernetes1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kubernets" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/notes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pro" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/roboshop" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sampleToDo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/shell-scripting" vcs="Git" />

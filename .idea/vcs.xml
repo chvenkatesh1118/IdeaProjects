@@ -10,6 +10,7 @@
     <mapping directory="$PROJECT_DIR$/commands" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/devops" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dotnet" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/install" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/jenkins" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kubernetes" vcs="Git" />

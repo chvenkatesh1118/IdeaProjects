@@ -21,6 +21,7 @@
     <mapping directory="$PROJECT_DIR$/notes" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/private" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/roboshop" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sampleToDo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/shell-scripting" vcs="Git" />
